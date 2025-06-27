@@ -321,18 +321,8 @@
       "permanent": true
     },
     {
-      "source": "/collections/all-products?page=2",
-      "destination": "https://www.minimela.com.au/collections/all",
-      "permanent": true
-    },
-    {
       "source": "/products/kip-co-x-piccolini-low-top-sneaker-big-stripe",
       "destination": "https://www.minimela.com.au/collections/all",
-      "permanent": true
-    },
-    {
-      "source": "/a/service?",
-      "destination": "https://www.minimela.com.au/a/service?",
       "permanent": true
     },
     {
@@ -343,11 +333,6 @@
     {
       "source": "/products/gift-card-1",
       "destination": "https://www.minimela.com.au",
-      "permanent": true
-    },
-    {
-      "source": "/collections/all-products?page=1",
-      "destination": "https://www.minimela.com.au/collections/all",
       "permanent": true
     },
     {
