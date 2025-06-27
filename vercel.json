@@ -339,6 +339,16 @@
       "source": "/search",
       "destination": "https://www.minimela.com.au/search",
       "permanent": true
+    },
+    {
+      "source": "/collections/high-top-sneaker",
+      "destination": "https://www.minimela.com.au/products/high-top-sneaker",
+      "permanent": true
+    },
+    {
+      "source": "/collections/childrens-sneakers",
+      "destination": "https://www.minimela.com.au/collections/childrens-sneakers",
+      "permanent": true
     }
   ]
 }
