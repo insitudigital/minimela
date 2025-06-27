@@ -28,7 +28,25 @@
       "source": "/",
       "destination": "https://www.minimela.com.au",
       "permanent": true,
-      "statusCode": 301
+      "statusCode": 301,
+      "has": [
+        {
+          "type": "host",
+          "value": "piccolinishoes.com.au"
+        }
+      ]
+    },
+    {
+      "source": "/",
+      "destination": "https://www.minimela.com.au",
+      "permanent": true,
+      "statusCode": 301,
+      "has": [
+        {
+          "type": "host",
+          "value": "www.piccolinishoes.com.au"
+        }
+      ]
     },
     {
       "source": "/index.html",
