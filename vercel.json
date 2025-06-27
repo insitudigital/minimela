@@ -1,354 +1,88 @@
 {
   "redirects": [
     {
-      "source": "/(.*)",
+      "source": "/",
       "destination": "https://www.minimela.com.au/$1",
-      "permanent": true
+      "permanent": true,
+      "statusCode": 301
     },
     {
       "source": "/index.html",
       "destination": "https://www.minimela.com.au",
-      "permanent": true
+      "permanent": true,
+      "statusCode": 301
     },
     {
       "source": "/collections/frontpage",
       "destination": "https://www.minimela.com.au",
-      "permanent": true
+      "permanent": true,
+      "statusCode": 301
     },
     {
       "source": "/pages/home",
       "destination": "https://www.minimela.com.au",
-      "permanent": true
+      "permanent": true,
+      "statusCode": 301
     },
     {
       "source": "/collections",
       "destination": "https://www.minimela.com.au/collections/all",
-      "permanent": true
+      "permanent": true,
+      "statusCode": 301
     },
     {
       "source": "/collections/all",
       "destination": "https://www.minimela.com.au/collections/all",
-      "permanent": true
+      "permanent": true,
+      "statusCode": 301
     },
     {
       "source": "/collections/samples-seconds-sale",
       "destination": "https://www.minimela.com.au",
-      "permanent": true
+      "permanent": true,
+      "statusCode": 301
     },
     {
       "source": "/products/kip-co-x-piccolini-sandal-forever-floral",
       "destination": "https://www.minimela.com.au/collections/all",
-      "permanent": true
-    },
-    {
-      "source": "/collections/samples-seconds-sale",
-      "destination": "https://www.minimela.com.au",
-      "permanent": true
+      "permanent": true,
+      "statusCode": 301
     },
     {
       "source": "/collections/all-products",
       "destination": "https://www.minimela.com.au/collections/all",
-      "permanent": true
+      "permanent": true,
+      "statusCode": 301
     },
     {
       "source": "/collections/by-billie-x-piccolini",
       "destination": "https://www.minimela.com.au/collections/by-billie-x-piccolini",
-      "permanent": true
+      "permanent": true,
+      "statusCode": 301
     },
     {
       "source": "/collections/apple-leather-sneaker",
       "destination": "https://www.minimela.com.au/collections/all",
-      "permanent": true
+      "permanent": true,
+      "statusCode": 301
     },
     {
       "source": "/collections/sandals",
       "destination": "https://www.minimela.com.au/collections/all",
-      "permanent": true
-    },
-    {
-      "source": "/collections/high-top-sneaker",
-      "destination": "https://www.minimela.com.au/collections/high-top-sneaker",
-      "permanent": true
-    },
-    {
-      "source": "/collections/low-top-sneaker",
-      "destination": "https://www.minimela.com.au/collections/low-top-sneaker",
-      "permanent": true
-    },
-    {
-      "source": "/collections/limited-edition-sneaker",
-      "destination": "https://www.minimela.com.au/collections/all",
-      "permanent": true
-    },
-    {
-      "source": "/collections/kip-co-x-piccolini",
-      "destination": "https://www.minimela.com.au/collections/all",
-      "permanent": true
-    },
-    {
-      "source": "/pages/about-piccolini",
-      "destination": "https://www.minimela.com.au/pages/about-mini-mela",
-      "permanent": true
-    },
-    {
-      "source": "/pages/about-our-shoes",
-      "destination": "https://www.minimela.com.au/pages/shoe-sizing",
-      "permanent": true
-    },
-    {
-      "source": "/pages/shoe-sizing",
-      "destination": "https://www.minimela.com.au/pages/shoe-sizing",
-      "permanent": true
-    },
-    {
-      "source": "/pages/podiatrist-recommended",
-      "destination": "https://www.minimela.com.au/pages/podiatrist-recommended",
-      "permanent": true
-    },
-    {
-      "source": "/pages/shoe-care",
-      "destination": "https://www.minimela.com.au/pages/shoe-care",
-      "permanent": true
-    },
-    {
-      "source": "/pages/contact-1",
-      "destination": "https://www.minimela.com.au/pages/contact",
-      "permanent": true
-    },
-    {
-      "source": "/collections/size-21",
-      "destination": "https://www.minimela.com.au/collections/all",
-      "permanent": true
-    },
-    {
-      "source": "/collections/size-22",
-      "destination": "https://www.minimela.com.au/collections/all",
-      "permanent": true
-    },
-    {
-      "source": "/collections/size-23",
-      "destination": "https://www.minimela.com.au/collections/all",
-      "permanent": true
-    },
-    {
-      "source": "/collections/size-24",
-      "destination": "https://www.minimela.com.au/collections/all",
-      "permanent": true
-    },
-    {
-      "source": "/collections/size-25",
-      "destination": "https://www.minimela.com.au/collections/all",
-      "permanent": true
-    },
-    {
-      "source": "/collections/size-26",
-      "destination": "https://www.minimela.com.au/collections/all",
-      "permanent": true
-    },
-    {
-      "source": "/collections/size-27",
-      "destination": "https://www.minimela.com.au/collections/all",
-      "permanent": true
-    },
-    {
-      "source": "/collections/size-28",
-      "destination": "https://www.minimela.com.au/collections/all",
-      "permanent": true
-    },
-    {
-      "source": "/collections/size-29",
-      "destination": "https://www.minimela.com.au/collections/all",
-      "permanent": true
-    },
-    {
-      "source": "/collections/size-30",
-      "destination": "https://www.minimela.com.au/collections/all",
-      "permanent": true
-    },
-    {
-      "source": "/collections/size-31",
-      "destination": "https://www.minimela.com.au/collections/all",
-      "permanent": true
-    },
-    {
-      "source": "/collections/size-32",
-      "destination": "https://www.minimela.com.au/collections/all",
-      "permanent": true
-    },
-    {
-      "source": "/products/coming-soon-original-sandal-pink",
-      "destination": "https://www.minimela.com.au/collections/all",
-      "permanent": true
-    },
-    {
-      "source": "/products/coming-soon-original-sandal-khaki",
-      "destination": "https://www.minimela.com.au/collections/all",
-      "permanent": true
-    },
-    {
-      "source": "/products/copy-of-coming-soon-original-sandal-blue",
-      "destination": "https://www.minimela.com.au/collections/all",
-      "permanent": true
-    },
-    {
-      "source": "/products/by-billie-x-piccolini-sandal-red-star",
-      "destination": "https://www.minimela.com.au/products/by-billie-x-piccolini-sandal-red-star",
-      "permanent": true
-    },
-    {
-      "source": "/products/by-billie-x-piccolini-low-top-sneaker-red-star",
-      "destination": "https://www.minimela.com.au/products/by-billie-x-piccolini-low-top-sneaker-red-star",
-      "permanent": true
-    },
-    {
-      "source": "/products/kip-co-x-piccolini-high-top-sneaker-forever-floral-copy",
-      "destination": "https://www.minimela.com.au/products/by-billie-x-piccolini-high-top-sneaker-red-star",
-      "permanent": true
-    },
-    {
-      "source": "/products/piccolini-shoes-washing-bag",
-      "destination": "https://www.minimela.com.au/products/mini-mela-shoes-washing-bag",
-      "permanent": true
-    },
-    {
-      "source": "/products/limited-edition-low-top-off-white",
-      "destination": "https://www.minimela.com.au/collections/all",
-      "permanent": true
-    },
-    {
-      "source": "/products/limited-edition-high-top-off-white",
-      "destination": "https://www.minimela.com.au/collections/all",
-      "permanent": true
-    },
-    {
-      "source": "/products/original-low-top-sneaker-white",
-      "destination": "https://www.minimela.com.au/products/original-low-top-sneaker-white",
-      "permanent": true
-    },
-    {
-      "source": "/products/original-low-top-sneaker-pink",
-      "destination": "https://www.minimela.com.au/products/original-low-top-sneaker-pink",
-      "permanent": true
-    },
-    {
-      "source": "/products/original-low-top-sneaker-black",
-      "destination": "https://www.minimela.com.au/products/original-low-top-sneaker-black",
-      "permanent": true
-    },
-    {
-      "source": "/products/original-low-top-sneaker-blue",
-      "destination": "https://www.minimela.com.au/products/original-low-top-sneaker-blue",
-      "permanent": true
-    },
-    {
-      "source": "/products/original-low-top-sneaker-khaki",
-      "destination": "https://www.minimela.com.au/products/original-low-top-sneaker-khaki",
-      "permanent": true
-    },
-    {
-      "source": "/products/original-high-top-sneaker-black",
-      "destination": "https://www.minimela.com.au/products/original-high-top-sneaker-black",
-      "permanent": true
-    },
-    {
-      "source": "/products/original-high-top-sneaker-blue",
-      "destination": "https://www.minimela.com.au/products/original-high-top-sneaker-blue",
-      "permanent": true
-    },
-    {
-      "source": "/pages/shipping-returns-and-exchanges",
-      "destination": "https://www.minimela.com.au/pages/shipping-returns-and-exchanges",
-      "permanent": true
-    },
-    {
-      "source": "/pages/stockists",
-      "destination": "https://www.minimela.com.au/pages/stockists",
-      "permanent": true
-    },
-    {
-      "source": "/pages/wholesale",
-      "destination": "https://www.minimela.com.au/pages/wholesale",
-      "permanent": true
-    },
-    {
-      "source": "/pages/privacy-policy",
-      "destination": "https://www.minimela.com.au/policies/privacy-policy",
-      "permanent": true
-    },
-    {
-      "source": "/pages/terms-of-service",
-      "destination": "https://www.minimela.com.au/pages/terms-of-service",
-      "permanent": true
-    },
-    {
-      "source": "/products/original-high-top-sneaker-pink",
-      "destination": "https://www.minimela.com.au/products/original-high-top-sneaker-pink",
-      "permanent": true
-    },
-    {
-      "source": "/products/original-high-top-sneaker-khaki",
-      "destination": "https://www.minimela.com.au/products/original-high-top-sneaker-khaki",
-      "permanent": true
-    },
-    {
-      "source": "/products/original-high-top-sneaker-white",
-      "destination": "https://www.minimela.com.au/products/original-high-top-sneaker-white",
-      "permanent": true
-    },
-    {
-      "source": "/products/limited-edition-high-top-multi",
-      "destination": "https://www.minimela.com.au/collections/all",
-      "permanent": true
-    },
-    {
-      "source": "/products/limited-edition-low-top-multi",
-      "destination": "https://www.minimela.com.au/collections/all",
-      "permanent": true
-    },
-    {
-      "source": "/products/limited-edition-high-top-yellow",
-      "destination": "https://www.minimela.com.au/collections/all",
-      "permanent": true
-    },
-    {
-      "source": "/products/limited-edition-low-top-yellow",
-      "destination": "https://www.minimela.com.au/collections/all",
-      "permanent": true
-    },
-    {
-      "source": "/products/limited-edition-low-top-sneaker-lilac",
-      "destination": "https://www.minimela.com.au/collections/all",
-      "permanent": true
-    },
-    {
-      "source": "/products/kip-co-x-piccolini-low-top-sneaker-big-stripe",
-      "destination": "https://www.minimela.com.au/collections/all",
-      "permanent": true
-    },
-    {
-      "source": "/pages/return-form",
-      "destination": "https://www.minimela.com.au",
-      "permanent": true
-    },
-    {
-      "source": "/products/gift-card-1",
-      "destination": "https://www.minimela.com.au",
-      "permanent": true
-    },
-    {
-      "source": "/search",
-      "destination": "https://www.minimela.com.au/search",
-      "permanent": true
+      "permanent": true,
+      "statusCode": 301
     },
     {
       "source": "/collections/high-top-sneaker",
       "destination": "https://www.minimela.com.au/products/high-top-sneaker",
-      "permanent": true
+      "permanent": true,
+      "statusCode": 301
     },
     {
       "source": "/collections/childrens-sneakers",
       "destination": "https://www.minimela.com.au/collections/childrens-sneakers",
-      "permanent": true
+      "permanent": true,
+      "statusCode": 301
     }
   ]
 }
